@@ -1,6 +1,8 @@
 # React-Cryptocurrency-Project-
 React Cryptocurrency Project Code, Document And Video Tutorial
 
+![Cryptocurrency](https://github.com/user-attachments/assets/ededd5a0-34ad-4de7-a2d4-f3f219787e1b)
+
 ## Youtube link: https://youtu.be/HbRmkbOoG0A?si=wLIijSo7_g4Rlnzj
 
 ## Abstract:
